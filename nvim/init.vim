@@ -18,6 +18,8 @@ set clipboard=unnamedplus    " using system clipboard
 filetype plugin on
 set ttyfast                  " Speed up scrolling in Vim
 
+tnoremap <Esc> <C-\><C-n>    " Keybind to leave terminal mode
+
 call plug#begin()
     Plug 'beauwilliams/statusline.lua'
     Plug 'Mofiqul/vscode.nvim'
