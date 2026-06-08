@@ -7,6 +7,7 @@ dotfiles for:
 - powerlevel10k
 - vim/neovim
 - KDE (backed up with konsave)
+  - [Current version](https://github.com/PanicAtTheCisco/dotfiles/releases/tag/KDE)
 
 Configs for WSL:
 - Remove folder highlighting for Windows folders
