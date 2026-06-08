@@ -1,11 +1,12 @@
 # dotfiles
-- Download the init.sh with git/curl/wget and run. Will install and setup most of the setup automatically except for font.
+- (!!! Script currently broken do not use !!!) Download the init.sh with git/curl/wget and run. Will install and setup most of the setup automatically except for font.
 - Script and configs are currently W.I.P
 
 dotfiles for:
 - zsh
 - powerlevel10k
 - vim/neovim
+- KDE (backed up with konsave)
 
 Configs for WSL:
 - Remove folder highlighting for Windows folders
@@ -16,6 +17,7 @@ Others to be added as needed
 ## TODO:
 - Refactor this repo to reflect current configs and have better organization
 - Refactor and finish script
+  - Update script to relfect new file locations
 
 ## Note:
 - zsh, git, and wget are installed with this script in case they are not installed already
