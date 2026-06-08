@@ -19,6 +19,7 @@ Others to be added as needed
 - Refactor this repo to reflect current configs and have better organization
 - Refactor and finish script
   - Update script to relfect new file locations
+- Find a better name for the KDE theme
 
 ## Note:
 - zsh, git, and wget are installed with this script in case they are not installed already
